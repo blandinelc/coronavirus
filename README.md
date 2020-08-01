@@ -18,3 +18,7 @@ Suivi et adaptation des données nationales pour un suivi + spécifique sur la B
 [Non, les Côtes-d’Armor ne sont pas particulièrement épargnées par le Covid-19](https://www.letelegramme.fr/bretagne/non-les-cotes-d-armor-ne-sont-pas-particulierement-epargnees-par-le-covid-19-03-04-2020-12535270.php)
 
 [Hospitalisations, réanimations, décès : le point sur le Covid-19 dans les hôpitaux bretons](https://www.letelegramme.fr/coronavirus/hospitalisations-reanimations-deces-le-point-sur-le-covid-19-dans-les-hopitaux-bretons-26-03-2020-12531487.php)
+
+[Coronavirus : où en est la contamination dans le monde ?](https://www.letelegramme.fr/monde/coronavirus-ou-en-est-la-contamination-dans-le-monde-21-03-2020-12529950.php)
+
+[Coronavirus : où en est-on du nombre de cas confirmés en Bretagne et en France ?](https://www.letelegramme.fr/bretagne/coronavirus-ou-en-est-on-du-nombre-de-cas-confirmes-17-03-2020-12528272.php)
