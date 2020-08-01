@@ -1,7 +1,5 @@
 # coronavirus
-Suivi des chiffres multiples sur le coronavirus et le Covid-19
-Réutilisation de données mondiales
-Suivi et adaptation des données nationales pour un suivi + spécifique sur la Bretagne
+Suivi des chiffres multiples sur le coronavirus et le Covid-19. Réutilisation de données mondiales. Suivi et adaptation des données nationales pour un suivi + spécifique sur la Bretagne
 
 [Où en sont les indicateurs de suivi de l’épidémie de Covid-19 en Bretagne ?](https://www.letelegramme.fr/bretagne/ou-en-sont-les-indicateurs-de-suivi-de-l-epidemie-de-covid-19-en-bretagne-24-07-2020-12588554.php)
 
